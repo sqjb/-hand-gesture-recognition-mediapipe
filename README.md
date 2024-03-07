@@ -32,7 +32,7 @@ python hand_detection.py
 python hand_gesture_train.py 
 ```
 
-# 手势识别
+# 手势检测+识别
 ```bash
 python hand_recognise.py
 ```
